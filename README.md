@@ -37,6 +37,3 @@ A console-based Library Management System developed in C++ using Object-Oriented
 
 The project contains separate classes for Books, Users, Staff, Librarians, Accounts, and Library Database management.
 
-## Acknowledgement
-
-This project is based on the Library Management System by RafayKhattak and has been adapted for learning and further development.
